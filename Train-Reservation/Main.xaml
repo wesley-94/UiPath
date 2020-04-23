@@ -66,7 +66,7 @@
           <av:PointCollection x:Key="ConnectorLocation">140,184.84 140,235.6</av:PointCollection>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Sequence DisplayName="1. 웹 브라우저 오픈 및 로그인 " sap:VirtualizedContainerService.HintSize="200,68.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
+      <Sequence DisplayName="1. 웹 브라우저 오픈 및 로그인 " sap:VirtualizedContainerService.HintSize="475.2,1227.2" sap2010:WorkflowViewState.IdRef="Sequence_3">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
